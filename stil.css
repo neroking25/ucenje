@@ -1,0 +1,18 @@
+#levi_blok {
+    width: 100px;
+    float: left;
+    background-color: blueviolet;
+}
+
+#gornji_blok {
+    text-align: center;
+}
+
+#cenar_blok {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.nesto {
+
+}
