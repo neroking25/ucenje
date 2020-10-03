@@ -12,9 +12,10 @@ background-color: cornflowerblue;
 }
 #cenar_blok {
     text-align: center;
-    padding: 10pt;
-    margin: 10pt;
-
+    margin-top: 10px
+    margin-left:auto
+    margin-right:auto
+    margin-boton:1em
     background-color: darkgoldenrod;
     
     
