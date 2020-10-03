@@ -1,6 +1,6 @@
 #gornji_blok {
     text-align: center;
-
+width: 100ch;
 
 
 background-color: cornflowerblue;
@@ -12,7 +12,7 @@ background-color: cornflowerblue;
 }
 #cenar_blok {
     text-align: center;
-    padding-block: 10ch;
+    
     background-color: lightsteelblue;
     
     
