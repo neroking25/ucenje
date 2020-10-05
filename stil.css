@@ -22,7 +22,7 @@ background-color: lightskyblue;
 #uvodni_blok{
 text-align: left;
 font-size: 20px;
-font-weight: 500;
+font: 1em sans-serif;
 
     width: 100ch;
 padding: 10px 0;
