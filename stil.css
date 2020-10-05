@@ -21,6 +21,7 @@ background-color: lightskyblue;
 }
 #uvodni_blok{
 text-align: left;
+text-size-adjust: 10;
 
     width: 100ch;
 padding: 10px 0;
