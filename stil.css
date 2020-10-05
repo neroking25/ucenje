@@ -1,7 +1,6 @@
 #gornji_blok {
     text-align: center;
 width: 100ch;
-height: 15ch;
 margin: auto;
 
 background-color: lightskyblue;
@@ -15,11 +14,9 @@ background-color: lightskyblue;
     text-align: center;
     width: 800px;
     margin: auto;
-
-
-    
     background-color: lightsteelblue;
-    
+    padding: 10px 0;
+    margin-bottom: 10px;
 
     
     
